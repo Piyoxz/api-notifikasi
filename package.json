@@ -1,0 +1,23 @@
+{
+  "name": "api-notifikasi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@fastify/cors": "^10.0.1",
+    "@fastify/formbody": "^8.0.1",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "github:Piyoxz/Baileys",
+    "fastify": "^5.0.0",
+    "moment-timezone": "^0.5.45",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
